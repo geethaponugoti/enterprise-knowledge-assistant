@@ -1,0 +1,86 @@
+TechNova Solutions Remote Work Policy
+Effective Date: January 1, 2026
+Document Owner: Human Resources Department
+
+1. PURPOSE
+
+This policy defines the rules and expectations for employees who work
+remotely, whether on a hybrid schedule or fully remote basis.
+
+2. ELIGIBILITY
+
+Eligible employees may work remotely up to two days per week with manager
+approval. Employees in roles that require physical presence, such as
+facilities, on-site IT support, or lab-based hardware testing, are not
+eligible for regular remote work and must coordinate any exceptions directly
+with their department head.
+
+Fully remote arrangements (more than two days per week) require written
+approval from the employee's manager and the relevant department VP, and are
+reviewed every 6 months.
+
+3. INTERNATIONAL REMOTE WORK
+
+Employees may not work from another country without written approval from
+both Human Resources and Legal. This includes short-term work from a
+different country while traveling. Unapproved international remote work can
+create tax, immigration, and data residency risks for the company and the
+employee. Requests must be submitted at least 4 weeks in advance using the
+International Remote Work Request form on the HR intranet page.
+
+4. HOME OFFICE REQUIREMENTS
+
+Employees working remotely must have:
+  - A reliable internet connection with a minimum of 25 Mbps download and 5
+    Mbps upload speed
+  - A dedicated, reasonably quiet workspace suitable for video calls
+  - The company-issued laptop, configured and encrypted by IT, as the only
+    device used to access company systems
+
+TechNova provides a one-time home office stipend of 400 dollars for eligible
+full-time employees to purchase a desk, chair, or monitor. Requests are
+submitted through the Expense system and require manager approval, following
+the same receipt rules described in the Travel and Expense Policy.
+
+5. SECURITY REQUIREMENTS
+
+Remote employees must connect to company systems using the SecureConnect VPN
+client, described in the VPN Setup Guide, whenever accessing internal tools,
+shared drives, or customer data. Employees may not use public Wi-Fi networks
+without the VPN enabled. Screens must be locked whenever the employee steps
+away from their workspace, and confidential material should not be visible
+to household members or visible in the background of video calls.
+
+6. CORE HOURS AND AVAILABILITY
+
+Remote employees are expected to be available during the same core
+collaboration hours defined in the Employee Handbook: 11:00 AM to 3:00 PM
+Eastern Time. Employees should keep their calendar accurate and their status
+in the company chat tool up to date to reflect availability.
+
+7. EQUIPMENT AND SUPPORT
+
+IT-issued equipment remains company property and must be returned upon
+termination or when an employee transitions to a role that is no longer
+remote-eligible. Hardware issues for remote employees are supported by the IT
+Help Desk at extension 4400; loaner equipment can be shipped within 2
+business days for employees more than 50 miles from a TechNova office.
+
+8. PERFORMANCE EXPECTATIONS
+
+Remote work arrangements do not change performance expectations. Managers
+evaluate remote employees using the same goals and review cycle described in
+the Employee Handbook. Consistent unavailability during core hours or missed
+deadlines may result in the remote work arrangement being revoked.
+
+9. REVOKING REMOTE WORK ELIGIBILITY
+
+TechNova reserves the right to revoke remote work eligibility for business
+needs or performance reasons, with a minimum of 2 weeks' notice except in
+cases involving a policy violation, such as unapproved international work or
+a security incident, which may result in immediate revocation.
+
+10. QUESTIONS
+
+Direct any questions about this policy to hr@technova.example.com. Security
+related questions should be sent to security@technova.example.com.

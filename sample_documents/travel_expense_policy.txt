@@ -1,0 +1,105 @@
+TechNova Solutions Travel and Expense Policy
+Effective Date: January 1, 2026
+Document Owner: Finance Department
+
+1. PURPOSE
+
+This policy governs business travel booking and expense reimbursement for
+all TechNova Solutions employees. It applies to domestic and international
+travel undertaken for company business, including customer visits,
+conferences, and internal offsites.
+
+2. TRAVEL BOOKING
+
+All flights and hotels must be booked through the company travel portal
+(TravelHub) whenever available, so that TechNova can maintain duty-of-care
+visibility during travel. Bookings made outside TravelHub require prior
+approval from the employee's manager and may still be reimbursed at the
+policy's standard rates.
+
+Trips should be booked at least 7 business days in advance when possible to
+secure lower fares. Same-day or next-day travel requires manager approval
+noted in the expense report.
+
+3. AIRFARE
+
+Economy class is the standard for all flights under 6 hours. For flights
+longer than 6 hours, employees may book Premium Economy. Business class
+requires VP-level approval and is generally limited to international flights
+longer than 9 hours. Airline loyalty program enrollment is encouraged, but
+TechNova does not reimburse the cost of elite status purchases or lounge
+memberships.
+
+4. HOTEL
+
+The maximum hotel reimbursement is 250 dollars per night for standard U.S.
+cities. For designated high-cost cities (New York, San Francisco, Boston,
+Washington D.C., London, and Dublin), the maximum is 350 dollars per night.
+Employees should book standard room categories; upgrades to suites or club
+level rooms are not reimbursable unless it is the lowest available rate at
+the property.
+
+5. MEALS AND INCIDENTALS
+
+Employees may claim up to 75 dollars per day for meals while traveling on
+company business, inclusive of tips. Meals provided as part of a conference
+or by a customer should not be separately claimed. Alcohol is reimbursable
+only when it is a minor part of a client entertainment meal and does not
+exceed 20 dollars of the daily total.
+
+6. GROUND TRANSPORTATION
+
+Employees should use the most cost-effective reasonable transportation option
+(ride-share, taxi, public transit, or rental car). Rental cars should be
+booked at the mid-size class or lower unless transporting equipment or more
+than 3 colleagues. Personal vehicle use for business travel is reimbursed at
+the current IRS standard mileage rate, published annually on the Finance
+intranet page.
+
+7. RECEIPTS AND DOCUMENTATION
+
+Receipts are required for expenses greater than 25 dollars. Expenses at or
+below 25 dollars may be claimed without a receipt but must still include a
+brief description. Credit card statements alone are not sufficient
+documentation; an itemized receipt is required for meals and hotel folios.
+
+8. SUBMITTING EXPENSE REPORTS
+
+Expense reports must be submitted through the Expense system within 14
+calendar days of the trip's end date. Reports submitted more than 60 days
+after the trip may be denied at Finance's discretion. Each report requires
+manager approval before it is routed to Finance for payment, which is
+typically issued within 10 business days of final approval.
+
+9. CORPORATE CARD
+
+Employees who travel more than twice per quarter are eligible for a company
+corporate card, requested through Finance. Corporate card charges must still
+be submitted with a complete expense report; the card is a payment
+convenience, not pre-approval of the expense. Personal charges on the
+corporate card are not permitted and must be reimbursed to the company
+within 5 business days if they occur in error.
+
+10. NON-REIMBURSABLE EXPENSES
+
+The following are not reimbursable under any circumstances:
+  - Traffic or parking fines
+  - In-flight entertainment or Wi-Fi for personal use
+  - Personal travel insurance (TechNova provides coverage automatically for
+    booked business trips)
+  - Spa services, mini-bar charges, and movie rentals
+  - Airline change fees caused by personal schedule changes, unless approved
+    in advance by a manager
+
+11. INTERNATIONAL TRAVEL
+
+Employees traveling internationally for business should confirm passport
+validity (minimum 6 months remaining) and any visa requirements at least 3
+weeks before departure. Combining international business travel with
+personal remote work days must follow the approval process described in the
+Remote Work Policy.
+
+12. QUESTIONS
+
+Direct any questions about this policy to finance@technova.example.com or
+your Finance business partner.

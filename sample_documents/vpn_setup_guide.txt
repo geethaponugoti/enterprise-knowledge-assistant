@@ -1,0 +1,103 @@
+TechNova Solutions VPN Setup Guide
+Effective Date: January 1, 2026
+Document Owner: IT Department
+
+1. OVERVIEW
+
+This guide explains how to install and configure SecureConnect, TechNova's
+VPN client, which is required to access internal systems, shared drives, and
+customer data from outside a company office, as described in the Remote Work
+Policy.
+
+2. PREREQUISITES
+
+Before installing SecureConnect, confirm the following:
+  - You are using a company-issued laptop (personal devices are not
+    supported and cannot be enrolled)
+  - Your laptop is connected to the internet and fully updated
+  - You know your company email address and network password
+  - You have enrolled in multifactor authentication (MFA) through the
+    company Identity Portal; if not, see Section 6 before continuing
+
+3. INSTALLATION ON WINDOWS
+
+  1. Open the Company Software Center from the Start menu.
+  2. Search for "SecureConnect" and click Install.
+  3. Once installation completes, launch SecureConnect from the system tray.
+  4. Sign in with your company email, e.g. firstname.lastname@technova.example.com.
+  5. Complete multifactor authentication when prompted.
+  6. Select the "TechNova-Corporate" connection profile and click Connect.
+  7. A green shield icon in the system tray confirms the VPN is active.
+
+4. INSTALLATION ON MACOS
+
+  1. Open Self Service from the Applications folder.
+  2. Search for "SecureConnect" and click Install.
+  3. Launch SecureConnect from the menu bar.
+  4. Sign in with your company email and complete multifactor authentication.
+  5. Select the "TechNova-Corporate" connection profile and click Connect.
+  6. A green lock icon in the menu bar confirms the VPN is active.
+
+5. CONNECTING FROM A REMOTE LOCATION
+
+Always connect to SecureConnect before accessing internal tools such as the
+HR intranet, shared drives, or any customer data, especially when using
+public or home Wi-Fi. Do not use split tunneling unless your role has been
+explicitly approved for it by IT Security; approved roles are configured
+automatically and do not require manual setup.
+
+6. MULTIFACTOR AUTHENTICATION (MFA) ENROLLMENT
+
+  1. Go to identity.technova.example.com from any browser.
+  2. Sign in with your company email and temporary password provided by IT
+     during onboarding.
+  3. Choose your MFA method: the TechNova Authenticator app (recommended) or
+     SMS text message.
+  4. Scan the QR code with the Authenticator app, or enter your mobile number
+     for SMS codes.
+  5. Enter the 6-digit verification code to confirm enrollment.
+
+7. TROUBLESHOOTING
+
+Connection fails immediately after clicking Connect:
+  - Confirm your laptop's date and time are set automatically; an incorrect
+    clock will cause authentication to fail.
+  - Restart SecureConnect and try again.
+
+"Authentication failed" error:
+  - Confirm you are using your full company email address, not just your
+    username.
+  - Reset your password through the company password portal if you are
+    unsure it is current.
+
+VPN connects but internal sites do not load:
+  - Disconnect and reconnect SecureConnect.
+  - Confirm the "TechNova-Corporate" profile is selected, not "TechNova-Guest".
+  - Restart your laptop if the issue persists after reconnecting.
+
+Lost or new phone, cannot receive MFA codes:
+  - Contact the IT Help Desk to temporarily disable MFA so you can re-enroll
+    a new device. Identity verification will be required over a company
+    Zoom call with camera on.
+
+8. FORGOTTEN PASSWORDS
+
+For forgotten passwords, use the company password portal at
+password.technova.example.com, or call the IT Help Desk at extension 4400.
+The IT Help Desk is available Monday through Friday, 7:00 AM to 7:00 PM
+Eastern Time. For after-hours emergencies affecting production systems,
+call the on-call pager line listed on the IT intranet page.
+
+9. SECURITY REMINDERS
+
+Never share your VPN credentials or MFA codes with anyone, including other
+TechNova employees or IT staff; IT will never ask for your MFA code over
+phone or email. Report any suspicious login prompts or unexpected MFA
+requests to security@technova.example.com immediately.
+
+10. SUPPORT
+
+  - IT Help Desk: extension 4400
+  - IT Help Desk email: ithelp@technova.example.com
+  - Identity Portal: identity.technova.example.com
+  - Password Portal: password.technova.example.com

@@ -1,0 +1,124 @@
+TechNova Solutions Employee Handbook
+Effective Date: January 1, 2026
+Document Owner: Human Resources Department
+
+1. WELCOME AND COMPANY OVERVIEW
+
+TechNova Solutions is a mid-sized enterprise software company headquartered in
+Boston, Massachusetts, with regional offices in Austin, Texas; Denver, Colorado;
+and Dublin, Ireland. Founded in 2011, the company builds data infrastructure and
+knowledge management tools for enterprise customers across financial services,
+healthcare, and manufacturing. TechNova employs approximately 1,400 people
+worldwide.
+
+Our mission is to help organizations turn scattered information into reliable,
+actionable knowledge. Our core values are:
+  - Customer trust before short-term revenue
+  - Transparency in decision-making
+  - Ownership: employees are empowered to solve problems without waiting for
+    permission
+  - Continuous learning and constructive feedback
+
+2. EMPLOYMENT CLASSIFICATION
+
+Employees are classified as one of the following:
+  - Full-time: scheduled for 40 hours per week, eligible for full benefits
+  - Part-time: scheduled for fewer than 30 hours per week, eligible for
+    prorated benefits after 90 days of service
+  - Contractor: engaged through a statement of work, not eligible for
+    company benefits, managed by Procurement rather than HR
+
+3. STANDARD WORKING HOURS
+
+The standard working schedule is Monday through Friday, 9:00 AM to 5:00 PM in
+the employee's local time zone, with a one-hour unpaid lunch break. Core
+collaboration hours across all offices are 11:00 AM to 3:00 PM Eastern Time,
+during which employees are expected to be reachable for meetings.
+
+Employees who need a flexible schedule outside of core hours must have written
+approval from their manager. Non-exempt employees must record all hours worked
+in the company timekeeping system (WorkClock) no later than the following
+business day.
+
+4. CODE OF CONDUCT
+
+Employees are expected to act with integrity, treat colleagues and customers
+with respect, and comply with all applicable laws and company policies.
+Harassment, discrimination, and retaliation of any kind are strictly
+prohibited. Employees who experience or witness a violation should report it
+to their manager, any HR representative, or through the confidential Ethics
+Hotline at ethics@technova.example.com.
+
+Conflicts of interest, including outside employment that competes with
+TechNova or financial relationships with vendors, must be disclosed to HR in
+writing before they arise or as soon as they are identified.
+
+5. CONFIDENTIALITY AND DATA PROTECTION
+
+Employees must protect confidential company and customer information at all
+times, including trade secrets, unreleased product plans, customer data, and
+personally identifiable information (PII). Confidential information may not be
+shared outside the company, including with family members, without written
+authorization from the employee's department head.
+
+All company devices must be encrypted and secured with a passcode or
+biometric lock. Confidential documents should never be stored on personal
+cloud drives or personal email accounts. Any suspected data breach must be
+reported immediately to security@technova.example.com or the IT Help Desk at
+extension 4400.
+
+6. EQUAL EMPLOYMENT OPPORTUNITY
+
+TechNova Solutions is an equal opportunity employer. All employment decisions,
+including hiring, promotion, compensation, and termination, are made without
+regard to race, color, religion, sex, national origin, age, disability,
+veteran status, sexual orientation, gender identity, or any other status
+protected by applicable law.
+
+7. WORKPLACE HEALTH AND SAFETY
+
+Employees working from a TechNova office must follow all posted safety
+procedures, including emergency evacuation routes, which are reviewed during
+new-hire orientation. Any workplace injury must be reported to a manager and
+to HR within 24 hours using the Incident Report form available on the
+intranet.
+
+8. PERFORMANCE REVIEWS
+
+Formal performance reviews are conducted twice per year, in June and
+December. Reviews are based on goals set collaboratively with the employee's
+manager at the start of each review cycle. New employees receive an informal
+30/60/90-day check-in in addition to the standard review cycle.
+
+9. DISCIPLINARY PROCESS
+
+TechNova generally follows a progressive discipline process consisting of a
+verbal warning, a written warning, a final written warning, and termination.
+Serious violations of policy, including safety violations, harassment, theft,
+or breach of confidentiality, may result in immediate termination without
+following the standard progression.
+
+10. BENEFITS OVERVIEW
+
+Full-time employees are eligible for medical, dental, and vision insurance
+beginning on the first day of the month following their start date. TechNova
+matches 401(k) contributions up to 4% of base salary. Full details on leave
+entitlements are available in the Leave Policy document, and remote work
+eligibility is described in the Remote Work Policy document.
+
+11. TERMINATION AND OFFBOARDING
+
+Employees who resign are asked to provide at least two weeks' written notice.
+On the final day of employment, employees must return all company equipment,
+including laptops, access badges, and any physical documents, to their
+manager or IT. Final paychecks, including any accrued and unused vacation
+balance, are issued according to state or country law.
+
+12. CONTACTS
+
+  - HR general inquiries: hr@technova.example.com
+  - IT Help Desk: extension 4400, available Monday through Friday, 7:00 AM to
+    7:00 PM Eastern Time
+  - Ethics Hotline: ethics@technova.example.com (anonymous reporting
+    available)
+  - Security incidents: security@technova.example.com

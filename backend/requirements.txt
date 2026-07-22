@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+boto3
+botocore
+pydantic-settings
+python-dotenv
+qdrant-client
+python-multipart
+pypdf
+python-docx
+langchain-text-splitters
+openai
+langgraph
+langchain-openai
+langgraph-checkpoint-sqlite
