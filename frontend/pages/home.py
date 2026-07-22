@@ -33,9 +33,3 @@ features = [
 for column, (icon, title, body) in zip(feature_cols, features):
     with column:
         card(title, body, icon)
-
-st.write("")
-st.info(
-    "🚧 Current milestone: frontend, FastAPI, AWS S3 and Qdrant connections "
-    "are verified. RAG question answering and agent tools are next."
-)
